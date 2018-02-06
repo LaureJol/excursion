@@ -1,0 +1,53 @@
+html {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h1 {
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+/* unvisited link */
+a:link {
+    color: Aquamarine;
+}
+
+/* visited link */
+a:visited {
+    color: Aquamarine;
+}
+
+/* mouse over link */
+a:hover {
+    color: Aquamarine;
+}
+
+/* selected link */
+a:active {
+    color: Aquamarine;
+}
+
+.description {
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright {
+  text-align: right;
+  color: gray;
+}
